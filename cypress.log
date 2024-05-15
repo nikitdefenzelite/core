@@ -1,0 +1,8 @@
+
+
+DevTools listening on ws://127.0.0.1:50933/devtools/browser/27c4286e-f856-4ebc-ae10-801b57295214
+Can't run because no spec files were found.
+
+We searched for specs matching this glob pattern:
+
+  > D:\wamp64\www\projects\zTerminal-Server\cypress\integration\runner.spec.js

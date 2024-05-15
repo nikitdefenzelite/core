@@ -1,0 +1,5 @@
+{
+    "baseUrl": "https://zstarter.dze-labs.xyz/",
+    "integrationFolder": "cypress/e2e",
+    "testFiles": "**/*.cy.js"
+}
